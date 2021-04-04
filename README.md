@@ -1,2 +1,2 @@
 # class
-this repo shows the demo of how to create repo 
+this repo shows for demo purpose
